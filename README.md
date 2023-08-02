@@ -1,1 +1,1 @@
-Transformer Implementation adjusted (eg. embedding layer removed, positional encoding tailored, etc.)
+Tailored transformer Implementation (eg. embedding layer removed, positional encoding tailored, etc.)
