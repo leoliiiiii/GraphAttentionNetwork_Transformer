@@ -1,1 +1,1 @@
-Tailored transformer Implementation (eg. embedding layer removed, positional encoding tailored, etc.)
+Implementation of a Transformer Decoder, along with raw scripts for training, sequence generation task, and classification task. 
